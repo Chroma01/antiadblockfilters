@@ -29,6 +29,7 @@
 ||wheregoes.com/c/uploads/$script
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! Third-party servers
+||antiadblockcore.com^$third-party
 ||content-settings.com^$third-party
 ||site-config.com^$third-party
 ! Admiral antiadb
@@ -2435,4 +2436,5 @@ shadbase.com##img[alt="adblock"]
 @@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
 @@||haxnode.net^$generichide
+@@||tpi.li^$generichide
 @@||www.ifon.ca^$generichide
